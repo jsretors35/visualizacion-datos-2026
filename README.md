@@ -5,7 +5,7 @@ Repositorio del curso de Visualización de Datos.
 ## Estructura del repositorio
 - `cuadernos/`: Cuadernos de trabajo en Python y R.
 - `talleres/`: Solución a los talleres prácticos.
-- `proyectos/
+- `proyectos/`: Avances de los  proyecto en el aula .
 - `documentos/`: Guías y bitácoras del curso.
 
 ## Lo que aprendí
