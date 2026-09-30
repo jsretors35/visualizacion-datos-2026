@@ -8,3 +8,4 @@
 3. Repositorio clonado correctamente desde la cuenta de GitHub.
 
 Juan Sebastián Poveda Forero
+- Flujo verificado: git pull -> Trabajo local -> git add -> git commit -> git push.
